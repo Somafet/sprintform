@@ -6,7 +6,7 @@ const useTransactionModal = () => {
 
 	if (context === null) {
 		throw new Error(
-			"useTransactionModal must be used within a SnackbarNotificationProvider."
+			"useTransactionModal must be used within a TransactionModalProvider."
 		);
 	}
 	return context;
