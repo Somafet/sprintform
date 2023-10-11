@@ -1,5 +1,6 @@
 # Sprintform
 
+Available at [https://react.somafet.com](https://react.somafet.com)
 This project is package managed by [Bun](https://bun.sh/).
 
 ## Installation
